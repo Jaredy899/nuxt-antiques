@@ -1,0 +1,12 @@
+services:
+  nuxt-antiques:
+    container_name: nuxt-antiques
+    image: ghcr.io/jaredy899/nuxt-antiques:latest
+    ports:
+      - "80:80" 
+    restart: unless-stopped
+    # environment:
+    #   - NODE_ENV=production
+    #   - PORT=80
+    #   - HOST=0.0.0.0
+    #   - NUXT_TELEMETRY_DISABLED=1
