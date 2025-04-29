@@ -8,8 +8,8 @@ export default defineNuxtConfig({
   ],
   // @ts-ignore - colorMode is a valid option for the color-mode module
   colorMode: {
-    preference: 'light', // default theme
-    fallback: 'light', // fallback theme if user's preference is not available
+    preference: 'dark', // default theme
+    fallback: 'dark', // fallback theme if user's preference is not available
     classSuffix: '', // optional - default value is '-mode'
   },
   app: {
