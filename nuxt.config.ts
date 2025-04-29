@@ -24,5 +24,10 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
       ]
     }
+  },
+  // Switch to static generation
+  ssr: true,
+  nitro: {
+    preset: 'static'
   }
 })
