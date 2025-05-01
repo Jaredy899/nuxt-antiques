@@ -15,6 +15,12 @@ export default {
         center: true,
         padding: '1rem',
       },
+      colors: {
+        link: {
+          light: '#2563eb', // A nice blue color for light mode
+          dark: '#60a5fa',  // A lighter blue for dark mode
+        }
+      }
     },
   },
   plugins: [],

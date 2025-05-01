@@ -41,7 +41,7 @@
           <li v-for="item in navItems" :key="item.href">
             <NuxtLink 
               :to="item.href"
-              class="text-logo-600 dark:text-gray-300 hover:underline transition-colors"
+              class="text-link-light dark:text-link-dark hover:underline transition-colors"
               active-class="text-logo-800 dark:text-white font-semibold"
             >
               {{ item.label }}
