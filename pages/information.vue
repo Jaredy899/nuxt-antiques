@@ -49,7 +49,7 @@
               <h3 class="font-medium text-gray-900 dark:text-white">Phone:</h3>
               <a 
                 href="tel:276-477-1515" 
-                class="text-gray-600 dark:text-gray-300 hover:text-red-600 dark:hover:text-red-500 transition-colors underline hover:underline-offset-4"
+                class="text-gray-600 dark:text-gray-300 hover:underline transition-colors"
               >
                 276-477-1515
               </a>
@@ -58,14 +58,14 @@
               <h3 class="font-medium text-gray-900 dark:text-white">Email:</h3>
               <a 
                 href="mailto:abingdonantiquesandmore@gmail.com" 
-                class="text-gray-600 dark:text-gray-300 hover:text-red-600 dark:hover:text-red-500 transition-colors underline hover:underline-offset-4"
+                class="text-gray-600 dark:text-gray-300 hover:underline transition-colors"
               >
                 abingdonantiquesandmore@gmail.com
               </a>
             </div>
             <div class="mt-6">
               <h3 class="font-medium text-gray-900 dark:text-white mb-2">Directions:</h3>
-              <p class="text-gray-600 dark:text-gray-300">We are located in the heart of historic Abingdon, Virginia, on West Main Street, across the street from <a href="https://abingdoncommons.com/" target="_blank" rel="noopener noreferrer" class="text-gray-600 dark:text-gray-300 hover:text-red-600 dark:hover:text-red-500 transition-colors underline hover:underline-offset-4">Abingdon Commons</a>.</p>
+              <p class="text-gray-600 dark:text-gray-300">We are located in the heart of historic Abingdon, Virginia, on West Main Street, across the street from <a href="https://abingdoncommons.com/" target="_blank" rel="noopener noreferrer" class="text-gray-600 dark:text-gray-300 hover:underline transition-colors">Abingdon Commons</a>.</p>
             </div>
             <div class="mt-6">
               <h3 class="font-medium text-gray-900 dark:text-white mb-2">Parking:</h3>

@@ -7,11 +7,11 @@
           <h3 class="mb-3 text-lg font-serif font-semibold text-logo-800 dark:text-white">Contact Us</h3>
           <div class="mb-2">
             <p class="mb-1"><span class="font-medium">Phone:</span></p>
-            <p><a href="tel:+12764771515" class="hover:text-red-600 dark:hover:text-red-500 transition-colors underline hover:underline-offset-4">276-477-1515</a></p>
+            <p><a href="tel:+12764771515" class="hover:underline transition-colors">276-477-1515</a></p>
           </div>
           <div class="mb-2">
             <p class="mb-1"><span class="font-medium">Email:</span></p>
-            <p><a href="mailto:abingdonantiquesandmore@gmail.com" class="hover:text-red-600 dark:hover:text-red-500 transition-colors underline hover:underline-offset-4">abingdonantiquesandmore@gmail.com</a></p>
+            <p><a href="mailto:abingdonantiquesandmore@gmail.com" class="hover:underline transition-colors">abingdonantiquesandmore@gmail.com</a></p>
           </div>
           <div class="mb-4">
             <p class="mb-1"><span class="font-medium">Address:</span></p>
@@ -30,7 +30,7 @@
                 href="https://www.facebook.com/profile.php?id=61551934216826" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:text-red-600 dark:hover:text-red-500 transition-all duration-200 hover:scale-110"
+                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
                 aria-label="Facebook"
               >
                 <svg
@@ -47,7 +47,7 @@
                 href="https://www.instagram.com/abingdonantiques" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:text-red-600 dark:hover:text-red-500 transition-all duration-200 hover:scale-110"
+                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
                 aria-label="Instagram"
               >
                 <svg
@@ -64,7 +64,7 @@
                 href="http://www.youtube.com/@AbingdonAntiques" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:text-red-600 dark:hover:text-red-500 transition-all duration-200 hover:scale-110"
+                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
                 aria-label="YouTube"
               >
                 <svg
@@ -81,7 +81,7 @@
                 href="https://www.tiktok.com/@abingdonantiques" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:text-red-600 dark:hover:text-red-500 transition-all duration-200 hover:scale-110"
+                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
                 aria-label="TikTok"
               >
                 <svg
@@ -102,10 +102,10 @@
         <div class="text-center lg:text-left">
           <h3 class="mb-3 text-lg font-serif font-semibold text-logo-800 dark:text-white">Quick Links</h3>
           <div class="space-y-2">
-            <NuxtLink to="/" class="block hover:text-red-600 dark:hover:text-red-500 transition-colors underline hover:underline-offset-4">
+            <NuxtLink to="/" class="block hover:underline transition-colors">
               Home
             </NuxtLink>
-            <NuxtLink to="/information" class="block hover:text-red-600 dark:hover:text-red-500 transition-colors underline hover:underline-offset-4">
+            <NuxtLink to="/information" class="block hover:underline transition-colors">
               Information
             </NuxtLink>
           </div>

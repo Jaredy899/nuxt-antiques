@@ -15,7 +15,7 @@ interface Props {
 }
 
 const props = withDefaults(defineProps<Props>(), {
-  class: "text-logo-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors underline hover:underline-offset-4"
+  class: "text-logo-700 dark:text-gray-300 hover:underline transition-colors"
 });
 
 const className = computed(() => props.class);
