@@ -30,7 +30,7 @@
                 href="https://www.facebook.com/profile.php?id=61551934216826" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
+                class="text-link-light dark:text-link-dark hover:scale-110 transition-all duration-200"
                 aria-label="Facebook"
               >
                 <svg
@@ -47,7 +47,7 @@
                 href="https://www.instagram.com/abingdonantiques" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
+                class="text-link-light dark:text-link-dark hover:scale-110 transition-all duration-200"
                 aria-label="Instagram"
               >
                 <svg
@@ -64,7 +64,7 @@
                 href="http://www.youtube.com/@AbingdonAntiques" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
+                class="text-link-light dark:text-link-dark hover:scale-110 transition-all duration-200"
                 aria-label="YouTube"
               >
                 <svg
@@ -81,7 +81,7 @@
                 href="https://www.tiktok.com/@abingdonantiques" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="text-logo-600 dark:text-gray-400 hover:scale-110 transition-all duration-200"
+                class="text-link-light dark:text-link-dark hover:scale-110 transition-all duration-200"
                 aria-label="TikTok"
               >
                 <svg
