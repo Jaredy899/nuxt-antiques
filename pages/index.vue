@@ -6,7 +6,7 @@
         <div class="max-w-6xl mx-auto">
           <div class="relative h-[80vh] min-h-[600px] w-full rounded-lg overflow-hidden shadow-lg">
             <img
-              src="/images/hero.jpg"
+              src="https://xfcpn2nyfb.ufs.sh/f/LKapUqCN3UFsgY4yzqNj45hTfeKQstXczV0nIb7NJv8ypiFk"
               alt="Abingdon Antiques and More Store Front"
               class="absolute inset-0 w-full h-full object-cover md:object-center object-[75%_center]"
               loading="eager"
