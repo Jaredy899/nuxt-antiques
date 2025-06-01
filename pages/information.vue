@@ -58,7 +58,7 @@
               <h3 class="font-medium text-gray-900 dark:text-white">Email:</h3>
               <a 
                 href="mailto:abingdonantiquesandmore@gmail.com" 
-                class="text-link-light dark:text-link-dark hover:underline transition-colors"
+                class="location-email text-link-light dark:text-link-dark hover:underline transition-colors"
               >
                 abingdonantiquesandmore@gmail.com
               </a>
@@ -111,7 +111,7 @@
               <h3 class="mb-2 text-xl font-semibold text-gray-900 dark:text-white">Do you buy antiques?</h3>
               <p class="text-gray-600 dark:text-gray-300">
                 We may be interested in purchasing quality antiques and collectibles that fit our inventory. 
-                Please contact us to discuss what you have available.
+                <a href="mailto:abingdonantiquesandmore@gmail.com" class="text-blue-600 dark:text-blue-400 hover:underline">Please contact us</a> to discuss what you have available.
               </p>
             </div>
             
@@ -119,7 +119,7 @@
               <h3 class="mb-2 text-xl font-semibold text-gray-900 dark:text-white">Do you offer appraisals?</h3>
               <p class="text-gray-600 dark:text-gray-300">
                 Yes, we offer professional appraisals on select items. Our experienced vendors can provide 
-                detailed assessments of antiques and collectibles in their areas of expertise. Please contact 
+                detailed assessments of antiques and collectibles in their areas of expertise. <a href="tel:276-477-1515" class="text-blue-600 dark:text-blue-400 hover:underline">Please contact us</a>
                 us directly to discuss your specific items and arrange an appointment.
               </p>
             </div>
@@ -127,7 +127,7 @@
             <div class="p-4 rounded-lg bg-white dark:bg-gray-900/50">
               <h3 class="mb-2 text-xl font-semibold text-gray-900 dark:text-white">How can I become a vendor?</h3>
               <p class="text-gray-600 dark:text-gray-300">
-                We welcome new vendors who specialize in quality antiques and collectibles. Please contact us directly 
+                We welcome new vendors who specialize in quality antiques and collectibles. <a href="mailto:abingdonantiquesandmore@gmail.com" class="text-blue-600 dark:text-blue-400 hover:underline">Please contact us</a> directly 
                 to discuss available spaces and requirements.
               </p>
             </div>
@@ -137,3 +137,20 @@
     </div>
   </div>
 </template> 
+
+<style>
+  /* Target very small screens like iPhone SE and Galaxy S8+ */
+  @media screen and (max-width: 390px) {
+    .location-email {
+      font-size: 0.75rem !important;
+      line-height: 1rem !important;
+    }
+  }
+  
+  @media screen and (max-width: 360px) {
+    .location-email {
+      font-size: 0.7rem !important;
+      line-height: 0.9rem !important;
+    }
+  }
+</style>
