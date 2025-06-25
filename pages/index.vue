@@ -6,7 +6,7 @@
         <div class="max-w-6xl mx-auto">
           <div class="relative h-[80vh] min-h-[600px] w-full rounded-lg overflow-hidden shadow-lg">
             <img
-              src="https://xfcpn2nyfb.ufs.sh/f/LKapUqCN3UFsgY4yzqNj45hTfeKQstXczV0nIb7NJv8ypiFk"
+              src="https://lyiiw7a2jaaujwge.public.blob.vercel-storage.com/hero-uQtELmzMu9sLKrzS0Xfhsb0cuc7Jl5.webp"
               alt="Abingdon Antiques and More Store Front"
               class="absolute inset-0 w-full h-full object-cover md:object-center object-[75%_center]"
               loading="eager"
@@ -18,9 +18,9 @@
     </section>
 
     <!-- Social Media Section -->
-    <section class="py-16 bg-white dark:bg-gray-900 transition-colors duration-200">
+    <section class="py-8 bg-white dark:bg-gray-900 transition-colors duration-200">
       <div class="container mx-auto px-4">
-        <div class="max-w-3xl mx-auto">
+        <div class="max-w-6xl mx-auto">
           <div class="bg-gray-100 dark:bg-gray-800 p-8 rounded-lg transition-colors duration-200">
             <div class="text-center">
               <h2 class="text-3xl font-serif font-bold mb-6 text-gray-900 dark:text-white">Stay Connected!</h2>
@@ -57,45 +57,8 @@
       </div>
     </section>
 
-    <!-- New Location Announcement -->
-    <section class="py-16 bg-white dark:bg-gray-900 transition-colors duration-200">
-      <div class="container mx-auto px-4">
-        <div class="max-w-6xl mx-auto">
-          <div class="bg-gray-100 dark:bg-gray-800 p-8 rounded-lg transition-colors duration-200">
-            <div class="grid items-center gap-8 md:grid-cols-2">
-              <div>
-                <h2 class="text-3xl font-serif font-bold mb-6 text-gray-900 dark:text-white">
-                  Our New Home!
-                </h2>
-                <p class="mb-6 text-lg text-gray-600 dark:text-gray-300">
-                  <span class="font-semibold">We are now exclusively located at:</span><br />
-                  <AddressLink address="227 W Main St, Abingdon, VA 24210">
-                    227 W Main St, Abingdon, VA 24210
-                  </AddressLink>
-                </p>
-                <p class="text-gray-600 dark:text-gray-300">
-                  We have successfully completed our move to our new location! Come visit us at our beautiful new space in the heart of downtown Abingdon.
-                </p>
-              </div>
-              <div class="rounded-lg overflow-hidden">
-                <img 
-                  src="https://xfcpn2nyfb.ufs.sh/f/LKapUqCN3UFsWShw4AnAoZYFIrpQJyB8wcDh0eKmCV6iTnMg" 
-                  alt="Our new location at 227 W Main St" 
-                  class="rounded object-cover w-full h-auto"
-                  width="500"
-                  height="300"
-                  loading="lazy"
-                  decoding="async"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- About Section -->
-    <section class="py-16 bg-white dark:bg-gray-900 transition-colors duration-200">
+    <section class="py-8 bg-white dark:bg-gray-900 transition-colors duration-200">
       <div class="container mx-auto px-4">
         <div class="max-w-6xl mx-auto">
           <div class="bg-gray-100 dark:bg-gray-800 p-8 rounded-lg transition-colors duration-200">
@@ -120,7 +83,7 @@
     </section>
 
     <!-- Featured Items -->
-    <section class="py-16 bg-white dark:bg-gray-900 transition-colors duration-200">
+    <section class="py-8 bg-white dark:bg-gray-900 transition-colors duration-200">
       <div class="container mx-auto px-4">
         <ImageGallery 
           :images="galleryImages"
