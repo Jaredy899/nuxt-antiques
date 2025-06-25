@@ -17,7 +17,7 @@
             <p class="mb-1"><span class="font-medium">Address:</span></p>
             <div class="space-y-2 text-logo-700 dark:text-gray-300">
               <div>
-                <AddressLink address="227 West Main Street, Abingdon, VA 24210">
+                <AddressLink class="text-blue-600 dark:text-blue-400 hover:underline transition-colors">
                   227 West Main Street, Abingdon, VA 24210
                 </AddressLink>
               </div>

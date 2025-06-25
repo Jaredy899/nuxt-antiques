@@ -18,7 +18,7 @@
     </section>
 
     <!-- Social Media Section -->
-    <section class="py-8 bg-white dark:bg-gray-900 transition-colors duration-200">
+    <section class="py-4 bg-white dark:bg-gray-900 transition-colors duration-200">
       <div class="container mx-auto px-4">
         <div class="max-w-6xl mx-auto">
           <div class="bg-gray-100 dark:bg-gray-800 p-8 rounded-lg transition-colors duration-200">
@@ -58,7 +58,7 @@
     </section>
 
     <!-- About Section -->
-    <section class="py-8 bg-white dark:bg-gray-900 transition-colors duration-200">
+    <section class="py-4 bg-white dark:bg-gray-900 transition-colors duration-200">
       <div class="container mx-auto px-4">
         <div class="max-w-6xl mx-auto">
           <div class="bg-gray-100 dark:bg-gray-800 p-8 rounded-lg transition-colors duration-200">
@@ -83,7 +83,7 @@
     </section>
 
     <!-- Featured Items -->
-    <section class="py-8 bg-white dark:bg-gray-900 transition-colors duration-200">
+    <section class="py-4 bg-white dark:bg-gray-900 transition-colors duration-200">
       <div class="container mx-auto px-4">
         <ImageGallery 
           :images="galleryImages"

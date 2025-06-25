@@ -1,5 +1,5 @@
 <template>
-  <div class="py-16 bg-white dark:bg-gray-900 transition-colors duration-200">
+  <div class="py-4 bg-white dark:bg-gray-900 transition-colors duration-200">
     <div class="container mx-auto px-4">
       <h1 class="text-4xl font-serif font-bold text-center mb-12 text-gray-900 dark:text-white">Information</h1>
       
@@ -40,10 +40,10 @@
           <div class="space-y-4">
             <div>
               <h3 class="font-medium text-gray-900 dark:text-white">Address:</h3>
-              <AddressLink address="227 West Main Street, Abingdon, VA 24210">
+              <AddressLink class="text-blue-600 dark:text-blue-400 hover:underline transition-colors">
                 <p>227 West Main Street</p>
                 <p>Abingdon, VA 24210</p>
-              </AddressLink>
+              </AddressLink> 
             </div>
             <div>
               <h3 class="font-medium text-gray-900 dark:text-white">Phone:</h3>
